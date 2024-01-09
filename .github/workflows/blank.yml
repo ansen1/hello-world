@@ -15,4 +15,4 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      - run: ping 172.20.7.12
+      - run: telnet 34.101.178.183 22
