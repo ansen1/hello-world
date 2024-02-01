@@ -6,4 +6,4 @@ COPY . .
 RUN npm install -g yarn --force
 RUN yarn install --dev 
 CMD ["node", "src/index.js"]
-EXPOSE 3000
+EXPOSE 3001
