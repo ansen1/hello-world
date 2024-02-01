@@ -10,7 +10,7 @@ pipeline {
         stage('run') {
             steps {
                 sh 'echo "Hello World"'
-                sh 'docker run -dp 127.0.0.1:3000:3000 getting-started'
+                sh 'docker run -dp 127.0.0.1:3001:3001 getting-started'
             }
         }
     }
