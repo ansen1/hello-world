@@ -1,4 +1,5 @@
-# hello-world
-just try
-hello my name is anom, i want to try this one because my friend recommend me to try this one.
-i hope it'll be good
+# Getting started
+
+This repository is a sample application for users following the getting started guide at https://docs.docker.com/get-started/.
+
+The application is based on the application from the getting started tutorial at https://github.com/docker/getting-started
